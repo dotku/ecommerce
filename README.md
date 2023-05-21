@@ -1,5 +1,9 @@
 # ecommerce
 
+## Todo
+
+Compare Temu and Amazon
+
 ## Marketing Tools
 * https://www.kchuhai.com/pingtai/eBay/view-25468.html
 * https://blog.dcplus.com.tw/market/terapeak
