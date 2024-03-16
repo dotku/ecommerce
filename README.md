@@ -17,14 +17,16 @@ Compare Temu and Amazon
 * https://algopix.com/
 
 ## Marketing Elements
-https://www.best10ecommercesitebuilders.com/
-https://elements.envato.com/
-https://launch.shift4shop.com/
-https://tutsplus.com/
-https://www.buylandingpagedesign.com/
-https://www.dreamtemplate.com/
-https://www.i3dthemes.com/
-https://nicepage.com/
-https://in.pinterest.com/
-https://www.templatemonster.com/
-https://themeforest.net/
+
+* https://www.best10ecommercesitebuilders.com/
+* https://elements.envato.com/
+* https://launch.shift4shop.com/
+* https://tutsplus.com/
+* https://www.buylandingpagedesign.com/
+* https://www.dreamtemplate.com/
+* https://www.i3dthemes.com/
+* https://nicepage.com/
+* https://in.pinterest.com/
+* https://www.templatemonster.com/
+* https://themeforest.net/
+
