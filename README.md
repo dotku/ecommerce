@@ -4,7 +4,14 @@
 
 Compare Temu and Amazon
 
-## Marketing Tools
+## Global Trading
+
+- Costco (Taiwan, US, Canada... there isn't China?!)
+
+
+## Marketing 
+
+### Markeitng Tools
 * https://www.kchuhai.com/pingtai/eBay/view-25468.html
 * https://blog.dcplus.com.tw/market/terapeak
 * http://www.merchantrun.com/terapeak/
@@ -16,7 +23,7 @@ Compare Temu and Amazon
 * https://zhuanlan.zhihu.com/p/71760775
 * https://algopix.com/
 
-## Marketing Elements
+### Marketing Elements
 
 * https://www.best10ecommercesitebuilders.com/
 * https://elements.envato.com/
